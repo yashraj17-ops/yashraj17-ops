@@ -1,140 +1,93 @@
 <div align="center">
 
-# YASH RAJ
-
-### FULLSTACK DEVELOPER
-
-> **Build. Break. Learn. Repeat.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=YASH%20RAJ&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=FULLSTACK%20DEVELOPER&descSize=22&descAlignY=58&color=gradient"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1200&color=F7B500&center=true&vCenter=true&width=800&lines=React+Developer;Node.js+Backend;MongoDB;C%2B%2B+Programmer;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Fullstack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+Something+New"/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=yellow"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 🎮 PLAYER PROFILE
+# 👋 About Me
 
 ```yaml
 Name: Yash Raj
 
 Role: Fullstack Developer
 
-Experience: Learning & Building
-
 Location: India
 
-Current Mission:
-  - Build scalable web applications
-  - Solve DSA problems
-  - Learn System Design
+Currently Learning:
+  - Advanced React
+  - Backend Development
+  - System Design
+
+Passion:
+  Building beautiful, scalable and user-friendly web applications.
 ```
 
 ---
 
-# ⚡ TECH STACK
+# ⚡ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,cpp,git,github,vscode,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,cpp,git,github,tailwind,vscode,firebase"/>
 
-</p>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-### 🛕 Manvi
-> Your daily spiritual companion.
+</div>
 
 ---
 
-### 💼 Kaamly
-> AI-powered productivity platform.
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 🌐 Portfolio Website
-> Modern responsive portfolio built with React.
+# 🌐 Connect With Me
 
----
-
-# 📊 GITHUB STATS
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 CURRENT LOADOUT
-
-```text
-Languages
-███████████████████████░ 95%
-
-React
-█████████████████████░░░ 90%
-
-Node.js
-██████████████████░░░░░░ 80%
-
-MongoDB
-█████████████████░░░░░░░ 75%
-
-C++
-██████████████████████░░ 92%
-```
-
----
-
-# 🌎 CONNECT
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## ★ MISSION STATUS ★
+### ⚡ Turning ideas into reality, one commit at a time.
 
-```
-STATUS      : ONLINE
-
-FOCUS       : FULLSTACK DEVELOPMENT
-
-NEXT TARGET : BUILD SOMETHING AMAZING
-```
-
-**Thanks for visiting!**
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
 
 </div>
