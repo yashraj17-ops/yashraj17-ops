@@ -1,83 +1,70 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=42&duration=2500&pause=1000&color=FACC15&center=true&vCenter=true&width=900&lines=YASH+RAJ;FULLSTACK+DEVELOPER" />
+# YASH RAJ
+
+### FULLSTACK DEVELOPER
+
+> **Build. Break. Learn. Repeat.**
 
 <br>
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1200&color=F7B500&center=true&vCenter=true&width=800&lines=React+Developer;Node.js+Backend;MongoDB;C%2B%2B+Programmer;Always+Building+Something+New" />
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=windows-terminal&logoColor=black" />
-
-<img src="https://img.shields.io/badge/ROLE-FULLSTACK%20DEVELOPER-FFD700?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/LOCATION-INDIA-black?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=yellow"/>
 
 </div>
 
 ---
 
-# 👋 Welcome
+# 🎮 PLAYER PROFILE
 
-```javascript
-class Developer {
+```yaml
+Name: Yash Raj
 
-    constructor() {
-        this.name = "Yash Raj";
-        this.role = "Fullstack Developer";
-        this.language = ["JavaScript", "TypeScript", "C++"];
-        this.frontend = ["React", "HTML", "CSS", "Tailwind"];
-        this.backend = ["Node.js", "Express"];
-        this.database = ["MongoDB", "MySQL"];
-    }
+Role: Fullstack Developer
 
-    login() {
-        return "Welcome to my GitHub Profile";
-    }
+Experience: Learning & Building
 
-}
+Location: India
 
-const me = new Developer();
-
-console.log(me.login());
+Current Mission:
+  - Build scalable web applications
+  - Solve DSA problems
+  - Learn System Design
 ```
 
 ---
 
-# ⚡ Loading Skills...
+# ⚡ TECH STACK
 
-```text
-███████████████████████████████ 100%
+<p align="center">
 
-Frontend      ██████████████░░ 90%
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,cpp,git,github,vscode,tailwind"/>
 
-Backend       ████████████░░░░ 80%
-
-React         ███████████████░ 95%
-
-JavaScript    ██████████████░░ 90%
-
-Node.js       ███████████░░░░░ 75%
-
-MongoDB       ████████████░░░░ 80%
-```
+</p>
 
 ---
 
-<div align="center">
+# 🚀 FEATURED PROJECTS
 
-### 🎮 Press START
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/ENTER_PROFILE-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
+### 🛕 Manvi
+> Your daily spiritual companion.
 
 ---
 
-## 📊 Stats
+### 💼 Kaamly
+> AI-powered productivity platform.
+
+---
+
+### 🌐 Portfolio Website
+> Modern responsive portfolio built with React.
+
+---
+
+# 📊 GITHUB STATS
 
 <p align="center">
 
@@ -95,10 +82,59 @@ MongoDB       ████████████░░░░ 80%
 
 ---
 
+# 💻 CURRENT LOADOUT
+
+```text
+Languages
+███████████████████████░ 95%
+
+React
+█████████████████████░░░ 90%
+
+Node.js
+██████████████████░░░░░░ 80%
+
+MongoDB
+█████████████████░░░░░░░ 75%
+
+C++
+██████████████████████░░ 92%
+```
+
+---
+
+# 🌎 CONNECT
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
 
-### 💀 "Code. Build. Repeat."
+## ★ MISSION STATUS ★
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=yellow"/>
+```
+STATUS      : ONLINE
+
+FOCUS       : FULLSTACK DEVELOPMENT
+
+NEXT TARGET : BUILD SOMETHING AMAZING
+```
+
+**Thanks for visiting!**
 
 </div>
