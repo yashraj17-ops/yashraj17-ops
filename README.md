@@ -1,73 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=YASH%20RAJ&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=38&desc=FULLSTACK%20DEVELOPER&descSize=22&descAlignY=58&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,25:312E81,50:7C3AED,75:DB2777,100:F97316&text=YASH%20RAJ&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20•%20PROBLEM%20SOLVER&descSize=22&descAlignY=60"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Fullstack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+Something+New"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue&label=Followers"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=yellow&label=Stars"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=8B5CF6&lines=Building+Modern+Web+Applications;React+•+Node.js+•+C++;Learning+AI+%26+Cloud;Always+Building+Something+New" />
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 Hello, I'm Yash Raj
 
-```yaml
-Name: Yash Raj
+```cpp
+class Developer {
+public:
+    string name = "Yash Raj";
+    string role = "Full Stack Developer";
 
-Role: Full Stack Developer
+    vector<string> skills = {
+        "React",
+        "Node.js",
+        "JavaScript",
+        "C++",
+        "MongoDB",
+        "Express",
+        "Tailwind CSS"
+    };
 
-Location: India
-
-Learning:
-  - Advanced React
-  - Node.js
-  - Backend Development
-  - System Design
-
-Interests:
-  - Web Development
-  - Open Source
-  - Problem Solving
-  - UI/UX
-
-Goal:
-  Build scalable applications that solve real-world problems.
+    string currentFocus = "Building impactful products.";
+};
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 About Me
+
+- 💻 Full Stack Developer
+- 🌱 Learning React, Backend, AI & Cloud
+- ⚡ Solving DSA Problems
+- 🚀 Passionate about building scalable products
+- 🎯 Goal: Become an exceptional Software Engineer
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,firebase,python,mysql" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,cpp,git,github,tailwind,vscode,firebase,figma"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -75,64 +78,64 @@ Goal:
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 
-</div>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🌌 Current Mission
 
-<div align="center">
+```text
+🎯 Build impactful products
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+💻 Master Full Stack Development
 
-</div>
+🧠 Learn AI Engineering
 
-> **Note:** The snake animation requires a GitHub Action to generate it.
+☁️ Explore Cloud Computing
+
+🚀 Contribute to Open Source
+```
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
+<p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</div>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⚡ Turning ideas into reality, one commit at a time.
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F172A,25:312E81,50:7C3AED,75:DB2777,100:F97316"/>
 
 </div>
