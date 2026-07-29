@@ -10,53 +10,98 @@
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
 
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=yellow&label=Stars"/>
+
 </div>
 
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
 ```yaml
 Name: Yash Raj
 
-Role: Fullstack Developer
+Role: Full Stack Developer
 
 Location: India
 
-Currently Learning:
+Learning:
   - Advanced React
+  - Node.js
   - Backend Development
   - System Design
 
-Passion:
-  Building beautiful, scalable and user-friendly web applications.
+Interests:
+  - Web Development
+  - Open Source
+  - Problem Solving
+  - UI/UX
+
+Goal:
+  Build scalable applications that solve real-world problems.
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,cpp,git,github,tailwind,vscode,firebase"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,cpp,git,github,tailwind,vscode,firebase,figma"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight"/>
 
 </div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=1"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** The snake animation requires a GitHub Action to generate it.
 
 ---
 
