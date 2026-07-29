@@ -1,27 +1,25 @@
-<!-- GTA V STYLE HEADER / MISSION PASSED -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Pricedown&size=40&pause=1000&color=F4B41A&center=true&vCenter=true&width=600&height=70&lines=MISSION+PASSED!+RESPECT+%2B%2B;YASH+RAJ;FULL+STACK+DEVELOPER" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5A0,50:00D9FF,100:6C63FF&text=YASH%20RAJ&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20|%20CSE%20UNDERGRAD&descAlignY=60"/>
 
-  <p align="center">
-    <b><code>LOCATION: LOS SANTOS / WEB DEV METROPOLIS</code></b><br>
-    <b><code>WANTED LEVEL:</code></b> 
-    <img src="https://img.shields.io/badge/★%20★%20★%20★%20★-FULL%20STACK-red?style=flat-square" alt="Wanted Level" />
-  </p>
+<br>
 
-  <a href="https://github.com/yashraj17-ops">
-    <img src="https://komarev.com/ghpvc/?username=yashraj17-ops&color=yellow&style=for-the-badge&label=RESPAWNS%20/%20VIEWS" alt="Profile Views"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Yash+Raj;Full+Stack+Developer;Problem+Solver;React+%7C+Node.js+%7C+C%2B%2B;Always+Learning+New+Things"/>
 
 </div>
 
 ---
 
-### 🦹‍♂️ Character Selection: Player Profile
+# 💫 About Me
 
-```yaml
-Character Name : Yash Raj
-Class          : Full Stack Developer / Software Architect
-Special Ability: Turning Coffee into Clean, Scalable Code ☕⚡
-Current Mission: Building High-Performance Web Systems
-Arsenal        : MERN / Next.js / DevOps / System Design
+```cpp
+class YashRaj {
+public:
+    string role = "Full Stack Developer";
+    string college = "B.Tech CSE";
+    string language = "C++";
+    string frontend = "React";
+    string backend = "Node.js";
+    string database = "MongoDB";
+    string learning = "DevOps & Cloud";
+};
