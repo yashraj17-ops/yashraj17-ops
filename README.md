@@ -1,66 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,25:312E81,50:7C3AED,75:DB2777,100:F97316&text=YASH%20RAJ&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20•%20PROBLEM%20SOLVER&descSize=22&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1020,25:312E81,50:7C3AED,75:DB2777,100:F97316&text=YASH%20RAJ&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20•%20PROBLEM%20SOLVER&descSize=22&descAlignY=60"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=8B5CF6&lines=Building+Modern+Web+Applications;React+•+Node.js+•+C++;Learning+AI+%26+Cloud;Always+Building+Something+New" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+I'm+Yash+Raj+👋;Full+Stack+Developer;React+%7C+Node.js+%7C+C++;Learning+AI+%26+Cloud;Welcome+to+my+GitHub!" />
+
+![](https://komarev.com/ghpvc/?username=yashraj17-ops&style=for-the-badge&color=7C3AED)
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Yash Raj
+# 👋 About Me
 
 ```cpp
-class Developer {
+class YashRaj {
+
 public:
-    string name = "Yash Raj";
+
     string role = "Full Stack Developer";
 
-    vector<string> skills = {
-        "React",
-        "Node.js",
-        "JavaScript",
+    vector<string> languages = {
         "C++",
-        "MongoDB",
-        "Express",
+        "JavaScript",
+        "Python"
+    };
+
+    vector<string> frontend = {
+        "React",
+        "HTML",
+        "CSS",
         "Tailwind CSS"
     };
 
-    string currentFocus = "Building impactful products.";
+    vector<string> backend = {
+        "Node.js",
+        "Express",
+        "MongoDB"
+    };
+
+    string currentFocus = "Building scalable web applications";
 };
 ```
 
 ---
 
-# 🚀 About Me
+# 🚀 Current Goals
 
-- 💻 Full Stack Developer
-- 🌱 Learning React, Backend, AI & Cloud
-- ⚡ Solving DSA Problems
-- 🚀 Passionate about building scalable products
-- 🎯 Goal: Become an exceptional Software Engineer
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,firebase,python,mysql" />
-
-</p>
+- 🌱 Learning React, Backend & AI
+- 💻 Solving DSA every day
+- 🚀 Building Full Stack Projects
+- ☁️ Exploring Cloud Computing
+- ⭐ Contributing to Open Source
 
 ---
 
-# 📊 GitHub Stats
+# 💻 Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,firebase,mysql"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashraj17-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj17-ops&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -70,7 +80,7 @@ public:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=yashraj17-ops&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -78,64 +88,62 @@ public:
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashraj17-ops&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yashraj17-ops&theme=tokyonight&row=1&column=6&no-frame=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🌌 Current Mission
+# ⚡ Fun Fact
 
 ```text
-🎯 Build impactful products
-
-💻 Master Full Stack Development
-
-🧠 Learn AI Engineering
-
-☁️ Explore Cloud Computing
-
-🚀 Contribute to Open Source
+while(!success)
+{
+    Learn();
+    Build();
+    Debug();
+    Repeat();
+}
 ```
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/yashraj17-ops">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💜 Thanks for Visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F172A,25:312E81,50:7C3AED,75:DB2777,100:F97316"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:0B1020,25:312E81,50:7C3AED,75:DB2777,100:F97316"/>
 
 </div>
