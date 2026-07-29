@@ -1,75 +1,27 @@
-<h1 align="center">Hi 👋, I'm Yash Raj</h1>
+<!-- GTA V STYLE HEADER / MISSION PASSED -->
+<div align="center">
 
-<h3 align="center">Full Stack Developer | CSE Undergraduate</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Pricedown&size=40&pause=1000&color=F4B41A&center=true&vCenter=true&width=600&height=70&lines=MISSION+PASSED!+RESPECT+%2B%2B;YASH+RAJ;FULL+STACK+DEVELOPER" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+C%2B%2B;Always+Learning+New+Things" />
-</p>
+  <p align="center">
+    <b><code>LOCATION: LOS SANTOS / WEB DEV METROPOLIS</code></b><br>
+    <b><code>WANTED LEVEL:</code></b> 
+    <img src="https://img.shields.io/badge/★%20★%20★%20★%20★-FULL%20STACK-red?style=flat-square" alt="Wanted Level" />
+  </p>
 
----
+  <a href="https://github.com/yashraj17-ops">
+    <img src="https://komarev.com/ghpvc/?username=yashraj17-ops&color=yellow&style=for-the-badge&label=RESPAWNS%20/%20VIEWS" alt="Profile Views"/>
+  </a>
 
-## 🚀 About Me
-
-- 🌱 Learning React, Node.js & DevOps
-- 💻 Solving DSA Problems
-- 🚀 Building Full Stack Projects
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🦹‍♂️ Character Selection: Player Profile
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yashraj17-ops&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj17-ops&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=yashraj17-ops&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashraj17-ops&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashraj17-ops&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 👀 Visitor Count
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yashraj17-ops&style=for-the-badge" />
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+```yaml
+Character Name : Yash Raj
+Class          : Full Stack Developer / Software Architect
+Special Ability: Turning Coffee into Clean, Scalable Code ☕⚡
+Current Mission: Building High-Performance Web Systems
+Arsenal        : MERN / Next.js / DevOps / System Design
