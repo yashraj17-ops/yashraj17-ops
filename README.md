@@ -104,9 +104,9 @@ bool keepLearning = true;
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashraj17-ops&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=E2E8F0&icon_color=0EA5E9&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashraj17-ops&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=38BDF8&icon_color=0EA5E9&text_color=E2E8F0"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj17-ops&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=E2E8F0&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj17-ops&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=38BDF8&text_color=E2E8F0"/>
 
 </div>
 
