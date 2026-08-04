@@ -254,34 +254,19 @@ MAIN QUEST
 
 # 🌐 Connect With Me
 
-<div class = connect align=>
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-<a href="https://github.com/yashraj17-ops">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-&nbsp;
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:yashraj17082005@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-
-</div>
-<style>
-.connect {
-  display: flex;
-  justify-content: center; /* Centers horizontally */
-  align-items: center;     /* Centers vertically (if height is set) */
-  gap: 20px;               /* Space between links */
-}
-</style>
+  <a href="mailto:you@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
