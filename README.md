@@ -16,6 +16,13 @@
 </div>
 
 ---
+ 👁 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=yashraj17-ops&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9)
+
+</div>
 
 # <img src="https://media.giphy.com/media/ehsJ4YUQg4rkQ/giphy.gif" width="35"> Player Information
 
@@ -100,15 +107,7 @@ bool keepLearning = true;
 </div>
 
 ---
-# 📊 System Statistics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-manvi4.vercel.app/api?username=yashraj17-ops&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats-manvi4.vercel.app/api/top-langs/?username=yashraj17-ops&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
 ---
 
 # 🔥 Hunter Progress
@@ -249,13 +248,7 @@ MAIN QUEST
 
 ---
 
-# 👁 Profile Views
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=yashraj17-ops&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9)
-
-</div>
+#
 
 ---
 
