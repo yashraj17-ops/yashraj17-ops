@@ -254,7 +254,7 @@ MAIN QUEST
 
 # 🌐 Connect With Me
 
-<div>
+<div class = connect align=>
 
 <a href="https://github.com/yashraj17-ops">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
@@ -272,7 +272,14 @@ MAIN QUEST
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
+
 </div>
+.connect {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically (if height is set) */
+  gap: 20px;               /* Space between links */
+}
 
 ---
 
