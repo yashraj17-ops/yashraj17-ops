@@ -92,22 +92,31 @@ bool keepLearning = true;
 
 # 💠 Tech Arsenal
 
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,tailwind,html,css"/>
-
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css" />
 </p>
 
----
+<h3 align="center">Frontend</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite" />
+</p>
 
-### ⚡ "Every line of code increases your level."
+<h3 align="center">Backend & Databases</h3>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,flask" />
+</p>
 
----
+<h3 align="center">Cloud, DevOps & Tooling</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,vercel,figma" />
+</p>
 ---
 
 # 🔥 Hunter Progress
