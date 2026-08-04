@@ -260,7 +260,7 @@ MAIN QUEST
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-&nbsp;;
+&nbsp;
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
