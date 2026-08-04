@@ -260,15 +260,15 @@ MAIN QUEST
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;;
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:yashraj17082005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
