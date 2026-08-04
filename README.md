@@ -16,8 +16,6 @@
 </div>
 
 ---
- 👁 Profile Views
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=yashraj17-ops&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9)
@@ -237,8 +235,6 @@ MAIN QUEST
 # 🐍 Contribution Snake
 
 <div align="center">
-
-> **Enable GitHub Actions to make this work.**
 
 ![Snake animation](https://raw.githubusercontent.com/yashraj17-ops/yashraj17-ops/output/github-contribution-grid-snake-dark.svg)
 
