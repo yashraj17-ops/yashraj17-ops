@@ -254,7 +254,7 @@ MAIN QUEST
 
 # 🌐 Connect With Me
 
-<div align="center">
+<div>
 
 <a href="https://github.com/yashraj17-ops">
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
