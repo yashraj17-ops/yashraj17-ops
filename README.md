@@ -274,12 +274,14 @@ MAIN QUEST
 
 
 </div>
+<style>
 .connect {
   display: flex;
   justify-content: center; /* Centers horizontally */
   align-items: center;     /* Centers vertically (if height is set) */
   gap: 20px;               /* Space between links */
 }
+</style>
 
 ---
 
