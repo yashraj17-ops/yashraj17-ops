@@ -76,6 +76,23 @@ bool keepLearning = true;
 
 };
 ```
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:you@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
 
 ### ⚡ System Traits
 
@@ -136,15 +153,7 @@ bool keepLearning = true;
 
 ---
 
-# 🏆 Hunter Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashraj17-ops&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
-
-</div>
-
----
 
 # 💠 Power Level
 
@@ -250,29 +259,10 @@ MAIN QUEST
 
 </div>
 
----
-
-#
 
 ---
 
-# 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
 
 # 🎯 Current Objectives
 
