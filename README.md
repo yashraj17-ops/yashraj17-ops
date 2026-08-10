@@ -43,6 +43,7 @@ Current Focus:
 Mission:
   Build products that people love.
 ```
+---
 
 # 🌌 About Me
 
