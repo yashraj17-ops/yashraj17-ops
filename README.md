@@ -44,8 +44,6 @@ Mission:
   Build products that people love.
 ```
 
----
-
 # 🌌 About Me
 
 <img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
@@ -77,7 +75,7 @@ bool keepLearning = true;
 };
 ```
 # 🌐 Connect With Me
-
+<p align="center">
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
