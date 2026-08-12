@@ -47,7 +47,7 @@ Mission:
 
 # 🌌 About Me
 
-<img align="right" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGN2ZGg3bnJha2Zqbmh5eHo3bGNibmVpODY3ZHV3ZWJrZjY4ZDdjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbu9Ud0Z6ibwjxTZYQ/giphy.gif">
+<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemljOXlwa3lpaWg3N2Nrc2Q4bHV1OTM3ZjkxaXE4M3g3eGRkdDhpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif">
 
 ```
 class Developer {
