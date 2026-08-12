@@ -43,7 +43,7 @@ Current Focus:
 Mission:
   Build products that people love.
 ```
----
+
 
 # 🌌 About Me
 
@@ -127,15 +127,6 @@ bool keepLearning = true;
 </p>
 ---
 
-# 🔥 Hunter Progress
-
-<div align="center">
-
-<img width="80%" src="https://streak-stats.demolab.com?user=yashraj17-ops&theme=transparent&hide_border=true&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=38BDF8&sideNums=E2E8F0"/>
-
-</div>
-
----
 
 # ⚡ Experience Graph
 
