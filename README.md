@@ -15,33 +15,8 @@
 
 </div>
 
----
 
-# 🎮 PLAYER PROFILE
 
-```yaml
-╔══════════════════════════════════════════════════╗
-║                  PLAYER INFORMATION              ║
-╠══════════════════════════════════════════════════╣
-║ Name       : Yash Raj                             ║
-║ Username   : yashraj17-ops                       ║
-║ Class      : Full Stack Developer                 ║
-║ Level      : 21                                   ║
-║ Rank       : S                                    ║
-║ Status     : ONLINE                               ║
-║                                              ║
-║ Current Mission:                                  ║
-║ Become an Elite Software Engineer                 ║
-╚══════════════════════════════════════════════════╝
-
----
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=yashraj17-ops&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9)
-
-</div>
-
-# <img src="https://media.giphy.com/media/ehsJ4YUQg4rkQ/giphy.gif" width="35"> Player Information
 
 ```yaml
 Name: Yash Raj
