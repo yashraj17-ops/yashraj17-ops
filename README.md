@@ -47,7 +47,7 @@ Mission:
 
 # 🌌 About Me
 
-<img align="center" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="center" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ```cpp
 class Developer {
