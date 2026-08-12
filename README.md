@@ -1,19 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,25:0B1F3A,50:0E4D92,75:2563EB,100:60A5FA&text=YASH%20RAJ&fontColor=E0F2FE&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=20&descAlignY=60"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=%E2%9A%A1+SYSTEM+INITIALIZED;%F0%9F%92%99+WELCOME+BACK+YASH+RAJ;%F0%9F%92%BB+FULL+STACK+DEVELOPER;%F0%9F%9A%80+BUILD+%E2%80%A2+LEARN+%E2%80%A2+REPEAT;%E2%9A%94%EF%B8%8F+LEVELING+UP+EVERY+DAY"/>
+<img src="./assets/title-card.png" width="100%" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/RANK-S-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CLASS-FULLSTACK%20DEVELOPER-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/POWER-∞-38BDF8?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=⚡+SYSTEM+INITIALIZED;💙+WELCOME+BACK+YASH+RAJ;💻+FULL+STACK+DEVELOPER;🚀+BUILD+•+LEARN+•+REPEAT;⚔️+LEVELING+UP+EVERY+DAY" />
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LEVEL-21-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RANK-S-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CLASS-FULLSTACK-0EA5E9?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=yashraj17-ops&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9" />
 
 </div>
+
+---
+
+# 🎮 PLAYER PROFILE
+
+```yaml
+╔══════════════════════════════════════════════════╗
+║                  PLAYER INFORMATION              ║
+╠══════════════════════════════════════════════════╣
+║ Name       : Yash Raj                             ║
+║ Username   : yashraj17-ops                       ║
+║ Class      : Full Stack Developer                 ║
+║ Level      : 21                                   ║
+║ Rank       : S                                    ║
+║ Status     : ONLINE                               ║
+║                                              ║
+║ Current Mission:                                  ║
+║ Become an Elite Software Engineer                 ║
+╚══════════════════════════════════════════════════╝
 
 ---
 <div align="center">
