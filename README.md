@@ -19,26 +19,6 @@
 
 
 ```yaml
-Name: Yash Raj
-Username: yashraj17-ops
-Role: Full Stack Developer
-
-Status:
-  Online: true
-  Coding: true
-  Coffee: Required ☕
-
-Current Focus:
-  - React
-  - Node.js
-  - DevOps
-  - DSA
-
-Mission:
-  Build products that people love.
-```
-
-
 # 🌌 About Me
 
 <img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemljOXlwa3lpaWg3N2Nrc2Q4bHV1OTM3ZjkxaXE4M3g3eGRkdDhpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif">
