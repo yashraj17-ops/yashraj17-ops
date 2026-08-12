@@ -15,10 +15,7 @@
 
 </div>
 
-
-
-
-```yaml
+---
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=yashraj17-ops&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9)
@@ -52,11 +49,6 @@ Build products that people love.
 <img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemljOXlwa3lpaWg3N2Nrc2Q4bHV1OTM3ZjkxaXE4M3g3eGRkdDhpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif">
 
 ```
-# 🌌 About Me
-
-<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemljOXlwa3lpaWg3N2Nrc2Q4bHV1OTM3ZjkxaXE4M3g3eGRkdDhpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif">
-
-```
 class Developer {
 
 public:
@@ -84,13 +76,13 @@ bool keepLearning = true;
 ```
 # 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-  <a href="mailto:yashraj17082005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<a href="mailto:yashraj17082005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
 ---
@@ -108,32 +100,29 @@ bool keepLearning = true;
 
 # 💠 Tech Arsenal
 
-
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css" />
 </p>
 
 <h3 align="center">Frontend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite" />
 </p>
 
 <h3 align="center">Backend & Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,flask" />
 </p>
 
 <h3 align="center">Cloud, DevOps & Tooling</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,vercel,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,vercel,figma" />
 </p>
-
-
 
 # ⚡ Experience Graph
 
@@ -144,8 +133,6 @@ bool keepLearning = true;
 </div>
 
 ---
-
-
 
 # 💠 Power Level
 
@@ -251,10 +238,7 @@ MAIN QUEST
 
 </div>
 
-
 ---
-
-
 
 # 🎯 Current Objectives
 
@@ -285,17 +269,17 @@ MAIN QUEST
 # ⚡ Hunter Stats
 
 ```text
-HP         ████████████████████ 100%
+HP ████████████████████ 100%
 
-MP         ███████████████████░ 95%
+MP ███████████████████░ 95%
 
-Strength   ██████████████████░░ 90%
+Strength ██████████████████░░ 90%
 
-Agility    ███████████████████░ 95%
+Agility ███████████████████░ 95%
 
-Intellect  ████████████████████ 100%
+Intellect ████████████████████ 100%
 
-Luck       █████████████████░░░ 88%
+Luck █████████████████░░░ 88%
 ```
 
 ---
@@ -307,19 +291,23 @@ Luck       █████████████████░░░ 88%
 ```text
 2024 ─────── Learn Programming
 
-          │
+      │
+
 
 2025 ─────── DSA + Web Development
 
-          │
+      │
+
 
 2026 ─────── Full Stack Developer
 
-          │
+      │
+
 
 2027 ─────── Open Source & DevOps
 
-          │
+      │
+
 
 Future ─── Build World-Class Products 🚀
 ```
