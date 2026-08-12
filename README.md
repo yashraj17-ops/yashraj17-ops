@@ -47,7 +47,7 @@ Mission:
 
 # 🌌 About Me
 
-<img align="right" width="400" src="https://www.pinterest.com/ideas/solo-leveling-gif/914545727333/">
+<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTF4cDNqeHlxOTZpZXM3dmJtcWJ6N2d1bm5vNDNoNXdzdGxsb2p4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PIgWVBnysLrLAJJVM/giphy.gif">
 
 ```cpp
 class Developer {
